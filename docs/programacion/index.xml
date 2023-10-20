@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programción on Aprendiendo Hugo en mi módulo de DWES</title>
-    <link>https://example.org/programacion/index.html</link>
+    <link>https://malejandror.github.io/blog_prueba/programacion/index.html</link>
     <description>Recent content in Programción on Aprendiendo Hugo en mi módulo de DWES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 19:23:33 +0200</lastBuildDate><atom:link href="https://example.org/programacion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 19:23:33 +0200</lastBuildDate><atom:link href="https://malejandror.github.io/blog_prueba/programacion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tema2</title>
-      <link>https://example.org/programacion/tema2/index.html</link>
+      <link>https://malejandror.github.io/blog_prueba/programacion/tema2/index.html</link>
       <pubDate>Fri, 20 Oct 2023 19:23:46 +0200</pubDate>
-      <guid>https://example.org/programacion/tema2/index.html</guid>
+      <guid>https://malejandror.github.io/blog_prueba/programacion/tema2/index.html</guid>
       <description>Otra página</description>
     </item>
     <item>
       <title>Tema1</title>
-      <link>https://example.org/programacion/tema1/index.html</link>
+      <link>https://malejandror.github.io/blog_prueba/programacion/tema1/index.html</link>
       <pubDate>Fri, 20 Oct 2023 19:23:43 +0200</pubDate>
-      <guid>https://example.org/programacion/tema1/index.html</guid>
+      <guid>https://malejandror.github.io/blog_prueba/programacion/tema1/index.html</guid>
       <description> Esto es el contenido del tema 1
 Lista de conceptos
 un tema otro elemento otro un elementos otro otros </description>

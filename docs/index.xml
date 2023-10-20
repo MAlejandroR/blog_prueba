@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aprendiendo Hugo en mi módulo de DWES</title>
-    <link>https://example.org/index.html</link>
+    <link>https://malejandror.github.io/blog_prueba/index.html</link>
     <description>Recent content on Aprendiendo Hugo en mi módulo de DWES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 19:23:46 +0200</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Oct 2023 19:23:46 +0200</lastBuildDate><atom:link href="https://malejandror.github.io/blog_prueba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programción</title>
-      <link>https://example.org/programacion/index.html</link>
+      <link>https://malejandror.github.io/blog_prueba/programacion/index.html</link>
       <pubDate>Fri, 20 Oct 2023 19:23:33 +0200</pubDate>
-      <guid>https://example.org/programacion/index.html</guid>
+      <guid>https://malejandror.github.io/blog_prueba/programacion/index.html</guid>
       <description>Introducción a la programación asfdadsf asd fas df asdf
 Otro tema </description>
     </item>
     <item>
       <title>General</title>
-      <link>https://example.org/introduccion/index.html</link>
+      <link>https://malejandror.github.io/blog_prueba/introduccion/index.html</link>
       <pubDate>Fri, 20 Oct 2023 19:23:26 +0200</pubDate>
-      <guid>https://example.org/introduccion/index.html</guid>
+      <guid>https://malejandror.github.io/blog_prueba/introduccion/index.html</guid>
       <description>Información general Esto es el contenido
 Titulo 1 Titulo2 Esto es un texto con un poco de formato Cursiva Negrita cursiva y negrita
 $numero = rand (1,5); echo &amp;#34;Valor de número $numero&amp;#34;;</description>

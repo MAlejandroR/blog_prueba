@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/index.html</loc>
     <lastmod>2023-10-20T19:23:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/programacion/tema2/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/programacion/tema2/index.html</loc>
     <lastmod>2023-10-20T19:23:46+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/programacion/tema1/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/programacion/tema1/index.html</loc>
     <lastmod>2023-10-20T19:23:43+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/programacion/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/programacion/index.html</loc>
     <lastmod>2023-10-20T19:23:33+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/introduccion/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/introduccion/index.html</loc>
     <lastmod>2023-10-20T19:23:26+02:00</lastmod>
   </url>
   <url>
-    <loc>https://example.org/categories/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/categories/index.html</loc>
   </url>
   <url>
-    <loc>https://example.org/tags/index.html</loc>
+    <loc>https://malejandror.github.io/blog_prueba/tags/index.html</loc>
   </url>
 </urlset>

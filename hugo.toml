@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://malejandror.github.io/blog_prueba/'
 languageCode = 'en-us'
 title = 'Aprendiendo Hugo en mi módulo de DWES'
 theme= 'relearn'
